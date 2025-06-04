@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Dart, Web  
 💬 Ask me about web development or UI/UX design  
-📫 How to reach me: [)
+📫 How to reach me: [Instagram](https://www.instagram.com/fannya145/)
 
 ---
 

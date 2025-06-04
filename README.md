@@ -7,7 +7,7 @@
 ---
 
 #### 📊 GitHub Stats
-![Tiffany's GitHub stats]()
+![Tiffany's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roczantya&show_icons=true&theme=radical)
 
 #### 🧰 Tools & Technologies
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)

@@ -12,7 +12,8 @@
 
 #### 📊 GitHub Stats
 ![Roczantya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roczantya&show_icons=true&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Roczantya&theme=onedark)](https://github.com/Roczantya/github-profile-trophy)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Roczantya&theme=onedark) 
 
 #### 🧰 Tools & Technologies
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)

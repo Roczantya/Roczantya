@@ -2,11 +2,15 @@
 
 😊 My username is Roczantya
 
-🌱 I’m currently learning Dart and Web
+Building impactful digital solutions, from AI-driven agriculture (Smart-C) to sentiment-based recommendation systems (Moodbites).
 
-💬 Ask me about web development or UI/UX design 
+⚡ Core Skills: JavaScript (React/Node), Dart (Flutter), Python (Deep Learning).
+🔐 Interests: Home Server Lab, Network Security, and Immersive Technology (AR).
 
-📫 How to reach me: [Instagram](https://www.instagram.com/fannya145/)
+📫 How to reach me: 
+[Instagram](https://www.instagram.com/fannya145/)
+[Lindkedln](https://www.instagram.com/fannya145/)
+
 
 ---
 
@@ -18,7 +22,3 @@
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Roczantya&layout=compact&theme=vision-friendly-dark)
 
 
-#### 🧰 Tools & Technologies
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)

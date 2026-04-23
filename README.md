@@ -13,7 +13,7 @@
 #### 📊 GitHub Stats
 ![Roczantya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roczantya&show_icons=true&theme=radical)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Roczantya&theme=onedark) 
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Roczantya&layout=compact&theme=vision-friendly-dark)
 
 #### 🧰 Tools & Technologies
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)

@@ -1,10 +1,11 @@
-### Hi there 👋, I'm Tiffany
+### Hi there 👋, I'm Tiffany Tjandinegara
 
 😊 My username is Roczantya
 
 Building impactful digital solutions, from AI-driven agriculture (Smart-C) to sentiment-based recommendation systems (Moodbites).
 
 ⚡ Core Skills: JavaScript (React/Node), Dart (Flutter), Python (Deep Learning).
+
 🔐 Interests: Home Server Lab, Network Security, and Immersive Technology (AR).
 
 📫 How to reach me: 

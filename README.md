@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Tiffany Tjandinegara
-### Full Stack Developer | DevOps Enthusiast | Cyber Security Enthusiast
+### Full Stack Developer | DevOps Enthusiast | Cyber Security Enthusiast (little interest)
 
 😊 **Username:** @Roczantya
+
 📍 **Based in:** Makassar, Indonesia (Universitas Ciputra)
 
 I'm an Informatics student focused on building impactful digital solutions. I bridge the gap between robust backend infrastructure and immersive frontend experiences (Beginner 🥲🥲)

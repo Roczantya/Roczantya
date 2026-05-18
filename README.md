@@ -41,7 +41,7 @@ I'm an Informatics student focused on building impactful digital solutions. I br
 #### 📊 GitHub Stats
 ![Tiffany](https://github-profile-trophy.vercel.app/?username=Roczantya&theme=&no-frame=false&no-bg=false&margin-w=4)
 
-![Roczantya's GitHub stats](https://github-readme-stats-roczantya-iktsmq7id.vercel.app/api?username=Roczantya&show_icons=true&theme=radical)
+![Roczantya's GitHub stats](https://github-readme-stats-roczantya-fannys-projects-30517c7d.vercel.app/api?username=Roczantya&show_icons=true&theme=radical)
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Roczantya&layout=compact&theme=vision-friendly-dark)
 
